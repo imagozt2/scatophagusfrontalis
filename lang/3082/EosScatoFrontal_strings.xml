@@ -1,0 +1,127 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <EosScatoFrontal>Scatophagus frontalis</EosScatoFrontal>
+      <EosScatoFrontal_stt>Scatophagus frontalis</EosScatoFrontal_stt>
+      <EosScatoFrontal_lower>El Scatophagus frontalis</EosScatoFrontal_lower>
+      <EosScatoFrontal_ltt>
+         <color r="255" g="248" b="178">
+            <b>Scatophagus frontalis</b>
+         </color>
+         <br/>
+         Click para adoptar un Scatophagus frontalis.
+      </EosScatoFrontal_ltt>
+      <!--gift names-->
+      <EosScatoFrontal_Gift>Mochila de Scatophagus frontalis</EosScatoFrontal_Gift>
+      <EosScatoFrontal_Gift_stt>Mochila de Scatophagus frontalis</EosScatoFrontal_Gift_stt>
+      <EosScatoFrontal_Gift_lower>La Mochila de Scatophagus frontalis</EosScatoFrontal_Gift_lower>
+      <EosScatoFrontal_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Mochila de Scatophagus frontalis</b>
+         </color>
+         <br/>La gente compra este regalo cuando ve al Scatophagus frontalis.
+      </EosScatoFrontal_Gift_ltt>
+</entityname>
+<zoopedia_eosscatofrontal>
+ <entry>Scatophagus frontalis</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/EosScatoFrontal/EosScatoFrontal_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservacion:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Extincto
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Costa<br/></color>
+     <img src="ui/icon_biomes/icon_coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Mar<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: <i>(Actinopterygii)</i><br/>Orden: Perciformes <br/>Familia: Scatophagidae <br/>Genero: <i>Scatophagus</i><br/>Especie: <i>S. Frontalis</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos divertidos del Scatophagus frontalis</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Scatophagus frontalis es la primera especie del genero Scatophagus.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Media unos 30 cm.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"> Vivio en el eoceno.</color> 
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para desbloquear el Scatophagus frontalis necesitas 1 estrella de fama en tu zoo. 
+   </color>
+   <p/>Este pez vivio en el eoceno, hace unos 50 millones de años, en el mar del tetis. Sus restos se han ido encontrando en el norte de Monte Volca, Italia. De las tres especies de Scatophagidos del Eoceno esta es la mas conocida. En el eoceno vivieron Scatophagus frontalis, Scatophagus capellinii y Scatophagus affinis juntos. De estas tres surgieron las especies actuales del genero Scatophagus y el genero Selenotoca. Las especies actuales del genero Scatophagus son Scatophagus argus y Scatophagus tetracanthus, y las del genero Selenotoca son Selenotoca multifasciatus y Selenotoca papuensis. Son llamados Scatophagidos porque se alimentan de los excrementos de otros peces. Viven en aguas salobres, y actualmente Scatophagus argus y Selenotoca multifasciatus pueden ser mantenidas en acuarios salobres. Los Scatophagidos tienen unas puas venenosas en el lomo. 
+   <p/>
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Contenido de <color r="255" g="231" b="135">Wikipedia</color> Imago
+  </cell>
+ </text>
+</zoopedia_eosscatofrontal>
+</ZT2Strings>

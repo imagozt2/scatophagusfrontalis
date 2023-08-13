@@ -1,0 +1,35 @@
+<BFTypedBinder binderType="EosScatoFrontal_Young_M">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Chondrichthyes>
+                  <Carcharhiniformes>
+                     <Carcharhinidae>
+                        <EosScatoFrontal>
+                           <EosScatoFrontal_Young>
+                              <EosScatoFrontal_Young_M/>
+                           </EosScatoFrontal_Young>
+                        </EosScatoFrontal>
+                     </Carcharhinidae>
+                  </Carcharhiniformes>
+               </Chondrichthyes>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <UIToggleButton template="adopt">
+         <UIAspect>
+            <default image="entities\units\animals\EosScatoFrontal\EosScatoFrontal_Adult_F_icon.dds"/>
+         </UIAspect>
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="EosScatoFrontal_Young_M"/>
+         </on>
+      </UIToggleButton>
+      <BFAIEntityDataShared b_Male="1"/>
+   </shared>
+</BFTypedBinder>
